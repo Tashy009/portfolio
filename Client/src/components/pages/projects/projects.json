@@ -1,0 +1,51 @@
+[
+  {
+    "headingText": "STUDY CARDS APP",
+    "descriptionText": "An app that makes study easy. Create studycards while reading, study with them later",
+    "codeBaseHref": "//github.com/Tashy009/studycards",
+    "liveVersionHref": "//tashy-studycards.herokuapp.com/",
+    "techStack": ["NodeIcon", "ReactIcon", "MongoDBIcon"]
+  },
+  {
+    "headingText": "PROJCT EXPLORER APP",
+    "descriptionText": "A project explorer app that helps user to find projects they are interested in, user can also post projects",
+    "codeBaseHref": "//github.com/Tashy009/edconnect-weekly",
+    "liveVersionHref": "//tashy-project-explorer.herokuapp.com/",
+    "techStack": [
+      "NodeIcon",
+      "ReactIcon",
+      "MongoDBIcon",
+      "JavascriptIcon",
+      "HTML5Icon",
+      "BootstrapIcon"
+    ]
+  },
+  {
+    "headingText": "REACT PROJECTS",
+    "descriptionText": "This is a collection of my React projects, it contains projects like lorem ipsum generator, todo list, FAQ, and many more",
+    "codeBaseHref": "//github.com/Tashy009/react-practice",
+    "liveVersionHref": "//tashy-react-practice.netlify.app/",
+    "techStack": ["ReactIcon", "JavascriptIcon"]
+  },
+  {
+    "headingText": "JOBS API",
+    "descriptionText": "An aPI that helps user to find jobs, user can also post jobs",
+    "codeBaseHref": "//github.com/Tashy009/jobsAPI",
+    "liveVersionHref": "#",
+    "techStack": ["NodeIcon", "MongoDBIcon", "BootstrapIcon"]
+  },
+  {
+    "headingText": "My Resume App",
+    "descriptionText": "My resume app that i did for HNG internship",
+    "codeBaseHref": "//github.com/Tashy009/HNG-Stag",
+    "liveVersionHref": "//taofeekresume.herokuapp.com/",
+    "techStack": ["NodeIcon", "JavascriptIcon", "HTML5Icon", "CSS3Icon"]
+  },
+  {
+    "headingText": "My Blog app",
+    "descriptionText": "This is a simple blog created with django and bootstrap, user can sign up, create profile and add post.",
+    "codeBaseHref": "//github.com/OsasAzamegbe/Shopify-SendBox-Integration-API",
+    "liveVersionHref": " //tashyblog.herokuapp.com",
+    "techStack": ["BootstrapIcon", "PythonIcon", "DjangoIcon"]
+  }
+]

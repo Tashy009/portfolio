@@ -1,0 +1,25 @@
+.section{
+    width: 100%;
+    min-height: 95vh;
+    padding: 128px 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background);
+}
+
+.dark{
+    background-color: var(--dark-blue);
+}
+
+.red{
+    background-color: var(--off-white);
+    color: var(--dark);
+}
+
+
+@media screen and (max-width: 960px){
+    .section{
+        padding: 32px 16px;
+    }
+}

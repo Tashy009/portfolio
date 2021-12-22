@@ -1,0 +1,39 @@
+.icon{
+    font-size: 48px;
+}
+
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 5px;
+    margin: 12px 0;
+}
+
+.icon-container p {
+    line-height: 24px;
+}
+
+
+@media screen and (max-width: 960px){
+    .icon{
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .icon{
+        font-size: 24px;
+    }
+
+    .icon-container{
+        margin: 0;
+    }
+
+    .icon-container p {
+        font-size: 0.75rem;
+        line-height: 12px;
+    }
+}

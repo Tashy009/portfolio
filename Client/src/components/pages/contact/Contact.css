@@ -1,0 +1,31 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.contact-icons{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-evenly;
+    margin: 24px 0 60px 0;
+}
+
+.contact-form-container{
+    margin: 60px;
+    padding: 36px 0;
+    width: 60vw;
+}
+
+.copyrights{
+    margin: 24px 0 0 0;
+    padding: 12px 0 0 0;
+}
+
+@media screen and (max-width: 960px){
+    .contact-form-container{
+        width: 90vw;
+    }
+}
