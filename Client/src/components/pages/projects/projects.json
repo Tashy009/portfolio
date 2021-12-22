@@ -29,7 +29,7 @@
   },
   {
     "headingText": "JOBS API",
-    "descriptionText": "An aPI that helps user to find jobs, user can also post jobs",
+    "descriptionText": "An API that helps user to find jobs, user can also post jobs",
     "codeBaseHref": "//github.com/Tashy009/jobsAPI",
     "liveVersionHref": "#",
     "techStack": ["NodeIcon", "MongoDBIcon", "BootstrapIcon"]

@@ -2,13 +2,14 @@ import React from "react";
 import "./About.css";
 import * as techIcons from "../../Icons";
 import { FaQuoteRight } from "react-icons/fa";
+import mypics from "./mypics.png";
 
 const About = () => {
   return (
     <div className="about">
       <div className="about-quotes-container">
         <div className="img-container">
-          <img src={""} alt={""} className="person-img" />
+          <img src={mypics} alt={""} className="person-img" />
           <span className="quote-icon">
             <FaQuoteRight />
           </span>
